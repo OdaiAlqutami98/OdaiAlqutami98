@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer at **Acuative**
+- 💼 Full Stack Developer at **Innovators Grid**
 - 🏗 Specialized in building **Enterprise Systems & E-commerce Platforms**
 - 🧠 Strong focus on **Clean Architecture & SOLID Principles**
 - 🔐 Experienced with Role-Based Systems, APIs, Background Jobs & Business Workflows
@@ -24,9 +24,9 @@
 - .NET 10 / ASP.NET Core
 - Entity Framework Core
 - REST APIs
-- Hangfire (Background Jobs)
 - Clean Architecture
-- Repository Pattern
+- Microservices
+- Design Pattern
 
 ### Frontend
 - Angular 20 (Modules Architecture)
@@ -59,8 +59,8 @@
 - Admin analytics dashboard
 
 ### 🔹 Management Systems
-- School Management (GPA automation)
-- Employee Management (API + Angular UI)
+- School Management (.Net Core API + Angular UI)
+- Employee Management (.Net Core API + Angular UI)
 - Business workflow systems
 
 ---
