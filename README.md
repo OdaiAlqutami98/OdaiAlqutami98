@@ -1,16 +1,16 @@
-## Hi there 👋
+# E-Commerce Platform
 
-<!--
-**OdaiAlqutami98/OdaiAlqutami98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise-ready full stack application.
 
-Here are some ideas to get you started:
+## Features
+- Role-based access control
+- Cart persistence
+- Order workflow
+- Admin dashboard
+- Discounts & delivery logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- ASP.NET Core
+- Angular
+- SQL Server
+- Clean Architecture
