@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer at **Innovators Grid**
+- 💼 Full Stack Developer at **Acuative**
 - 🏗 Specialized in building **Enterprise Systems & E-commerce Platforms**
 - 🧠 Strong focus on **Clean Architecture & SOLID Principles**
 - 🔐 Experienced with Role-Based Systems, APIs, Background Jobs & Business Workflows
