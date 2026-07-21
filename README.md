@@ -29,7 +29,7 @@
 - Design Pattern
 
 ### Frontend
-- Angular 20 (Modules Architecture)
+- Angular 21 (Modules Architecture)
 - TypeScript
 - RxJS
 - Angular Material / UI Libraries
